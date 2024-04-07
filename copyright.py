@@ -17,11 +17,11 @@ logging.basicConfig(level=logging.INFO)
 
 BOT_USERNAME = os.environ.get("BOT_USERNAME","ModularCopyRightSaverbot")
 
-OWNER_ID = "6379841493"
+OWNER_ID = "6656608288"
 # -------------------------------------------------------------------------------------
 
-API_ID = "6435225" # 
-API_HASH = "4e984ea35f854762dcde906dce426c2d"
+API_ID = "20563951" # 
+API_HASH = "91a46c36f5bc745fc45ce4de8b51292d"
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
 
 # --------------------------------------------------------------------------------------
